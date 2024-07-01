@@ -1,5 +1,5 @@
 # SaudiProLeague-Transfers
-This is a practice project
+This is a practice project - Teamwork
 
 This project was done using Tableau - SQL for advanced cleaning
 
